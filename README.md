@@ -1,2 +1,2 @@
 # music-bot
-a basic music bot coded in js
+a basic music bot coded in python
